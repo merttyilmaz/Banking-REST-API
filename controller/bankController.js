@@ -2,8 +2,6 @@ import {existingAccounts, currencyChecker, validateCreateTransaction, senderAcco
 
 var errorType = "";
 
-var errorExists = false;
-
 var accountBalanceConverter = 0;
 
 export const bankAccounts = [];
